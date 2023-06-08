@@ -7,6 +7,11 @@
 | 1. **Practicing Trustworthy Machine Learning** | |
 | 2. **Hands-On Unsupervised Learning Using Python** | |
 | 3. **Hands-On Gradient Boosting with XGBoost and scikit-learn** | |
+| 4. **XAI-for-practitioners** | |
+
+
+
+
 
 FAIRNESS IN AI: 
 - Use Evaluate Library in Hugging face to check for Toxicity, Polarity, and Hurtfulness: Please further check the following :
