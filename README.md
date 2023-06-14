@@ -36,3 +36,5 @@ FAIRNESS IN AI:
 - monitor the performance of the predictions over time
 - deploy everything to GCP
 - build a CI/CD pipeline using GitHub Actions
+
+![21](https://github.com/andysingal/mlops/blob/main/Images/Screenshot%202023-06-14%20at%208.47.14%20PM.png)
