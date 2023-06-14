@@ -38,3 +38,14 @@ FAIRNESS IN AI:
 - build a CI/CD pipeline using GitHub Actions
 
 ![21](https://github.com/andysingal/mlops/blob/main/Images/Screenshot%202023-06-14%20at%208.47.14%20PM.png)
+
+- Feature Store: the feature store stays at the heart of any ML system. Using a feature store, you can easily store and share features across the system. You can intuitively see a feature store as a fancy database that adds the following features:
+
+- data versioning and lineage
+- data validation
+- the ability to create datasets
+- the ability to hold train/validation/test splits
+- two types of storage: offline (cheap, but high latency) and online (more expensive, but low latency).
+- time-travel: easily access data given a time window
+- hold feature transformation in addition to the feature themselves
+- data monitoring
