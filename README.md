@@ -11,7 +11,9 @@
 
 
 
-
+MLOPS
+- https://pub.towardsai.net/mlops-build-and-deploy-first-machine-learning-application-with-kubernetes-a528961fd0e7
+- https://github.com/trainindata/deploying-machine-learning-models
 
 FAIRNESS IN AI: 
 - Use Evaluate Library in Hugging face to check for Toxicity, Polarity, and Hurtfulness: Please further check the following :
