@@ -9,7 +9,9 @@
 | 3. **Hands-On Gradient Boosting with XGBoost and scikit-learn** | |
 | 4. **XAI-for-practitioners** | |
 
-
+COOKIECUTTER:
+- https://github.com/cookiecutter/cookiecutter
+- https://github.com/khuyentran1401/data-science-template
 
 MLOPS
 - https://pub.towardsai.net/mlops-build-and-deploy-first-machine-learning-application-with-kubernetes-a528961fd0e7
