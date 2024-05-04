@@ -8,3 +8,18 @@
 
 
 <img width="822" alt="Screenshot 2024-04-27 at 9 59 41 PM" src="https://github.com/andysingal/mlops/assets/20493493/29e55068-b9b0-4057-9ead-add557268ef7">
+
+CHECKLIST
+It's also useful to observe the links and dependencies across different best practices:
+- Without model specification review and version control, it would be hard for reproducible training
+- Without reproducible training, the effectiveness and predictability of canary releases are significantly reduced
+- Without knowing the impact of model staleness, it's hard to implement effective monitoring
+
+Serving ML Models - Formats
+- Serializing the model object with pickle
+- MLFlow provides a common serialization format for exporting/importing Spark, Scikit-Learn and Tensorflow models
+- Language-agnostic exchange formats to share models, such as PMML, PFA, and ONNX
+
+## Architecture 1: 
+<img width="1035" alt="Screenshot 2024-05-04 at 8 34 27 PM" src="https://github.com/andysingal/mlops/assets/20493493/ade9cd85-6bf7-4ad1-aaf4-1e83fa969539">
+
