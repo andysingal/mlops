@@ -20,6 +20,5 @@ Serving ML Models - Formats
 - MLFlow provides a common serialization format for exporting/importing Spark, Scikit-Learn and Tensorflow models
 - Language-agnostic exchange formats to share models, such as PMML, PFA, and ONNX
 
-## Architecture 1: 
-<img width="1035" alt="Screenshot 2024-05-04 at 8 34 27 PM" src="https://github.com/andysingal/mlops/assets/20493493/ade9cd85-6bf7-4ad1-aaf4-1e83fa969539">
+
 
