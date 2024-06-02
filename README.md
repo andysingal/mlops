@@ -23,6 +23,9 @@ FAIRNESS IN AI:
 - https://www.amazon.science/publications/bold-dataset-and-metrics-for-measuring-biases-in-open-ended-language-generation
 - https://aif360.readthedocs.io/en/latest/modules/sklearn.html
 
+BOOKS
+- https://github.com/sinanuozdemir/feature_engineering_bookcamp/tree/main 
+
 <h1>you will know how to:</h1>
 
 - design a batch-serving architecture
