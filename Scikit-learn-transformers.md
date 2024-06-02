@@ -1,0 +1,7 @@
+- Missing Data Imputation - SimpleImputer, IterativeImputer
+- Categorical Variable Encoding - OneHotEncode, OrdinalEncoder
+- Scalers -- Standard Scaler, MinMaxScaler, RobustScaler
+- Discretisation -- KBinsDiscretizer
+- Variable Transformation - PowerTransformer, FunctionTransformer
+- Variable Combination - Polynomial Features
+- Text -- Word Count, TFiDF 
